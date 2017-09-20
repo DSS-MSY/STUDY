@@ -1,6 +1,7 @@
 # DSS STUDY
 
-### week 1 OLS, Ridge, Lasso
+### week 0 OLS, Ridge, Lasso
+### week 1 Logistic Regression
 ### week 2 LDA, QDA
 ### week 3 SVM
 ### week 4 SGD, 파생된 것들
