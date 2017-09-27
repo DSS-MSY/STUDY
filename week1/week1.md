@@ -11,7 +11,7 @@
 4. Ridge, Lasso
 [링크1](https://datascienceschool.net/view-notebook/83d5e4fff7d64cb2aecfd7e42e1ece5e/)
 [링크2](http://blog.naver.com/sw4r/221011057664)
-
+[링크3](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 
 ## 코딩해보기:
 1. OLS에서 w 계수 구하기
