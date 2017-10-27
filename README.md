@@ -2,10 +2,10 @@
 
 ### week 0 OLS, Ridge, Lasso
 ### week 1 Logistic Regression
-### week 2 LDA, QDA
-### week 3 SVM
-### week 4 SGD, 파생된 것들
-### week 5 Nearest Neighbors
+### week 2 SGD, 파생된 것들
+### week 3 Nearest Neighbors
+### week 4 SVM
+### week 5 LDA, QDA
 ### week 6 Naive Bayes
 ### week 7 Decision Tree
 ### week 8 Ensemble methods
