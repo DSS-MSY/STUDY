@@ -12,3 +12,8 @@
 ### week 9 perceptron, Neural Network
 ### week 10 Clustering
 ### week 11 Cross Validation
+
+## EDA
+
+### Titanic: Machine Learning from Disaster
+
